@@ -7,6 +7,8 @@ on:
       - '**/*.md'
       - '.vitepress/**'
       - '.github/workflows/docs.yml'
+      - 'package.json'
+      - 'pnpm-lock.yaml'
 
 jobs:
   deploy:
