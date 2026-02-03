@@ -1,2 +1,1 @@
-# ACU_Visualizer_zaria.github.io
-website
+# ACU悬浮表格教程
