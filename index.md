@@ -4,7 +4,7 @@ layout: home
 hero:
   name: 悬浮表格
   text: 黑科技数据库通用表格前端
-  tagline: 让表格数据管理变得简单直观~自定义程度高~
+  tagline: 让表格数据管理变得简单直观，自定义程度高，自由度拉满√
   actions:
     - theme: brand
       text: 快速开始

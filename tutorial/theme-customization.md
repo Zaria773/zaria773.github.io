@@ -4,8 +4,9 @@
 
 ## 一、拷打ai
 把1+2+3一起丢给哈基米
-- 1.酒馆主题CSS/配色满意的图片
-- 2..acu-modal-container,
+- 1.你的酒馆主题自定义CSS/配色满意的图片
+- 2.主题18色变量+选择器
+.acu-modal-container,
 .acu-wrapper,
 .acu-app {
 --acu-bg-nav: #e8f5e9;
