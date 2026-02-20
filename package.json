@@ -7,10 +7,14 @@
     "lint": "eslint",
     "lint:fix": "eslint --fix",
     "dump": "node dump_schema.ts",
+<<<<<<< HEAD
     "sync": "node tavern_sync.mjs",
     "docs:dev": "vitepress dev .",
     "docs:build": "vitepress build .",
     "docs:preview": "vitepress preview ."
+=======
+    "sync": "node tavern_sync.mjs"
+>>>>>>> d8b37673c7eb2745a3439060fbf772c95799b9eb
   },
   "browserslist": [
     "defaults and partially supports es6-module"
@@ -71,7 +75,10 @@
     "typescript-eslint": "^8.56.0",
     "unplugin-auto-import": "^20.3.0",
     "unplugin-vue-components": "^29.2.0",
+<<<<<<< HEAD
     "vitepress": "^1.6.4",
+=======
+>>>>>>> d8b37673c7eb2745a3439060fbf772c95799b9eb
     "vue-eslint-parser": "^10.4.0",
     "vue-loader": "^17.4.2",
     "vue-style-loader": "^4.1.3",
@@ -92,11 +99,17 @@
     "gsap": "^3.14.2",
     "jquery": "^3.7.1",
     "jqueryui": "^1.11.1",
+<<<<<<< HEAD
     "json5": "^2.2.3",
     "jsonrepair": "^3.13.2",
     "klona": "^2.0.6",
     "lodash": "^4.17.23",
     "mobile-drag-drop": "3.0.0-rc.0",
+=======
+    "jsonrepair": "^3.13.2",
+    "klona": "^2.0.6",
+    "lodash": "^4.17.23",
+>>>>>>> d8b37673c7eb2745a3439060fbf772c95799b9eb
     "pinia": "^3.0.4",
     "pixi.js": "^8.16.0",
     "react": "^19.2.4",
